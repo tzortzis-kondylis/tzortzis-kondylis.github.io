@@ -61,6 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #preloader {
   position: fixed;
+  text-align: center;
   top: 0;
   left: 0;
   right: 0;
@@ -78,8 +79,8 @@ h1, h2, h3, h4, h5, h6 {
   border: 16px solid #f3f3f3;
   border-radius: 50%;
   border-top: 16px solid #3498db;
-  width: 120px;
-  height: 120px;
+  width: 70px;
+  height: 70px;
   -webkit-animation: spin 2s linear infinite; /* Safari */
   animation: spin 2s linear infinite;
 }
